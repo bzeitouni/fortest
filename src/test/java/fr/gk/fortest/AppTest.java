@@ -37,6 +37,6 @@ public class AppTest
        this.assertEquals(1, a.fact(1));
        this.assertEquals(120, a.fact(5));
        this.assertEquals(50, a.maxi(20,50));
-       this.assertEquals(50, a.maxi(10,50));
+       this.assertEquals(50, a.maxi(10,40));
     }
 }
